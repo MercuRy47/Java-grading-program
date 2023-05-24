@@ -1,7 +1,5 @@
 // โปรแกรมประมวลผลการเรียน(ตัดเกรด)
 
-package Chapter3;
-
 import java.util.Scanner;
 
 public class test3 {
